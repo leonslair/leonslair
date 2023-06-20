@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning OpenGL<br>🎯 Goals: create an OS and flying car from scratch using HTML<br>🎲 Fun fact: I play guitar</h4>
+<h4 align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning OpenGL<br>🎯 Goals: create an OS and flying car from scratch using HTML<br>🎲 Fun fact: I play guitar</h4>
 
 ###
 
