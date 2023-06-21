@@ -1,33 +1,10 @@
-<h1 align="left">Hey there 👋</h1>
 
-###
+# 💻 Tech Stack (from most proficient to least proficient):
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
+![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=for-the-badge&logo=unreal-engine&logoColor=white) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-<p align="left">My name is Leon and I'm a low level software engineer, from Frankfurt.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<h4 align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning OpenGL<br>🎯 Goals: create an OS and flying car from scratch using HTML<br>🎲 Fun fact: I play guitar</h4>
-
-###
-
-<h2 align="left">Programming languages I use from most proficient to least proficient:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leonslair&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
